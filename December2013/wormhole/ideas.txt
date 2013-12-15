@@ -1,0 +1,5 @@
+Generate all pairings of wormholes
+start at each wormhole in turn and walk through to see if i end up where i started
+if any wormhole of pairings does this, increment count and move to next pairing
+
+coordinate compression
